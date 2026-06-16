@@ -34,11 +34,24 @@ This makes the project more interactive and demonstrates:
 - buzzer melody generation
 - joystick input handling
 
+### Full Project
+<img src="docs/images/full_project.jpg" width="500">
+
 ## Components
+
+| Component | Image |
+|---|---|
+| Arduino Uno | <img src="docs/images/arduino_uno.jpg" width="120"> |
+| 16x2 I2C LCD | <img src="docs/images/lcd-16x2-i2c.jpg" width="120"> |
+| DS1302 RTC | <img src="docs/images/ds1302-rtc.jpg" width="120"> |
+| RFID RC522 | <img src="docs/images/rc522-rfid.jpg" width="120"> |
+| HW-504 Joystick | <img src="docs/images/joystick-hw504.jpg" width="120"> |
+| Buzzer Module | <img src="docs/images/buzzer-module.jpg" width="120"> |
+
 
 | Component | Quantity |
 |---|---:|
-| Arduino Uno | 1 |
+| Arduino Uno | 1 |  
 | 16x2 I2C LCD | 1 |
 | DS1302 RTC module | 1 |
 | RFID RC522 module | 1 |
@@ -48,6 +61,8 @@ This makes the project more interactive and demonstrates:
 | Jumper wires | several |
 
 ## Wiring
+
+<img src="docs/images/wiring.jpg" width="500">
 
 ### 16x2 I2C LCD
 
