@@ -1,0 +1,18 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
