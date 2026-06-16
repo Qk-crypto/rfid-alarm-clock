@@ -2,6 +2,10 @@
 
 A compact Arduino alarm clock that displays real time on a 16x2 LCD, lets the user set an alarm using a joystick, plays a melody through a buzzer, and can only be stopped by scanning an RFID card.
 
+## Demo Video
+
+[Watch demo video](docs/videos/demo.mp4)
+
 ## Features
 
 - Real-time clock display with seconds
@@ -204,6 +208,10 @@ Alarm screen:
 ALARM! Round 1
 Scan RFID card
 ```
+
+## Demo Video
+
+<video src="docs/videos/demo.mp4" controls width="600"></video>
 
 ## Future improvements
 
