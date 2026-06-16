@@ -209,10 +209,6 @@ ALARM! Round 1
 Scan RFID card
 ```
 
-## Demo Video
-
-<video src="docs/videos/demo.mp4" controls width="600"></video>
-
 ## Future improvements
 
 - Stop alarm only with a specific authorized RFID card UID
